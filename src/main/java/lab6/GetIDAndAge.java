@@ -3,9 +3,6 @@ package lab6;
 import java.util.*;
 public class GetIDAndAge
 {
-	static final int HIGHID = 999;
-    static final int HIGHAGE = 119;
-    static final int LOW = 0;
     public static void main(String[] args)
     {
       int id,age;
@@ -23,8 +20,8 @@ public class GetIDAndAge
               }
 
               showStatus("pls input id");
-              a = keyboard.nextLine();
-              id = Integer.parseInt(a);
+              String b = keyboard.nextLine();
+              id = Integer.parseInt(b);
               if(id < 0 || id > 999 ){
                   throw new DataEntryException("Number out of range");
               }else if(id == 0){
