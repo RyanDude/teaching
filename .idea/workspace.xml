@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc5467-2ad2-4537-99f1-0252fa31c853" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/Exchange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/Graduate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/TestStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/Undergraduate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab6/GetIDAndAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab6/GetIDAndAge.java" afterDir="false" />
+    <list default="true" id="128936ad-6813-4e54-a132-c068b6ce13a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,36 +27,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2F3BGKhtKGz5q8V8B4F39XrzkrU" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G0ncONTLbGzewVcZ4VXP91sbRz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/lab6" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Facets" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\guota\Documents\labs\src\main\java\lab6" />
-    </key>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration name="GetIDAndAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.GetIDAndAge" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.Main" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.*" />
+          <option name="PATTERN" value="lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,31 +59,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetIDAndAge" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ffc5467-2ad2-4537-99f1-0252fa31c853" name="Changes" comment="" />
-      <created>1663710794429</created>
+      <changelist id="128936ad-6813-4e54-a132-c068b6ce13a4" name="Changes" comment="" />
+      <created>1665534448902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663710794429</updated>
-      <workItem from="1663710796764" duration="2584000" />
-      <workItem from="1663713430416" duration="3123000" />
-      <workItem from="1664328789892" duration="8446000" />
-      <workItem from="1664747399454" duration="3504000" />
-      <workItem from="1664819301631" duration="109000" />
-      <workItem from="1664932968911" duration="7478000" />
-      <workItem from="1664940501038" duration="823000" />
+      <updated>1665534448902</updated>
+      <workItem from="1665534450099" duration="154000" />
+      <workItem from="1665534614464" duration="1651000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
